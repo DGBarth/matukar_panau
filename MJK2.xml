@@ -85,9 +85,10 @@
             <gloss lang="en">TERM</gloss>
         </sense>
     </entry>
-    <entry id="e_075fd759-89de-4b87-8308-46a5192126dc" dateCreated="2011-11-07T23:06:04Z" dateModified="2011-11-30T20:38:10Z" order="1">
+    <entry id="e_075fd759-89de-4b87-8308-46a5192126dc" dateCreated="2011-11-07T23:06:04Z" dateModified="2019-11-25T23:31:39.400Z" order="1">
         <lexical-unit>-alo</lexical-unit>
         <morph-type>suffix</morph-type>
+        <variant>-lo</variant>
         <sense id="s_37921dcd-d198-46c9-8770-8cef5ed8b3fb" order="1">
             <grammatical-category>n</grammatical-category>
             <gloss lang="en">LOC 'in'</gloss>
