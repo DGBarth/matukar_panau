@@ -661,9 +661,10 @@
             <gloss lang="en">quickly</gloss>
         </sense>
     </entry>
-    <entry id="e_15f0d4a0-6498-4cd0-9903-7e4773dffbd8" dateCreated="2012-04-21T19:41:07Z" dateModified="2012-04-21T19:41:07Z">
+    <entry id="e_15f0d4a0-6498-4cd0-9903-7e4773dffbd8" dateCreated="2012-04-21T19:41:07Z" dateModified="2019-11-28T00:48:43.532Z">
         <lexical-unit>-mim</lexical-unit>
         <morph-type>suffix</morph-type>
+        <variant>-amim</variant>
         <sense id="s_32cfea0c-9f26-4461-b6b7-627caa59e4ea" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">2.p</gloss>
