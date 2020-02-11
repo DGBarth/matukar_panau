@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1920,1040</Object>
+    </pref>
+    <prefList key="SegmentationViewer.TierOrder">
+        <String>Julie</String>
+        <String>Danielle</String>
+    </prefList>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="LayoutManager.ControlPanelWidth">
+        <Int>179</Int>
+    </pref>
+    <pref key="InterlinearizationMode.LeftTopBottomSplit">
+        <Double>0.3668032786885246</Double>
+    </pref>
+    <pref key="TranscriptionTable.LastActiveRow">
+        <Int>0</Int>
+    </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>100.0</Float>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="IGTViewerRenderInfo.headerWidth">
+        <Int>100</Int>
+    </pref>
+    <prefGroup key="TranscriptionMode.Temp.TierColors">
+        <pref key="Danielle">
+            <Object class="java.awt.Color">160,90,0</Object>
+        </pref>
+        <pref key="TPI@Julie">
+            <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+        <pref key="Julie">
+            <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+        <pref key="TPI@Danielle">
+            <Object class="java.awt.Color">160,90,0</Object>
+        </pref>
+    </prefGroup>
+    <prefGroup key="InterlinearizationMode.LexiconPanelPrefs">
+        <pref key="LexiconPanel.SelectedLexicon">
+            <String>MJK2_1</String>
+        </pref>
+        <prefGroup key="LexiconPanel.VisibleColumnsMap">
+            <prefList key="dummy">
+                <String>lexical-unit</String>
+                <String>morph-type</String>
+                <String>citation</String>
+            </prefList>
+            <prefList key="MEU_1">
+                <String>lexical-unit</String>
+                <String>morph-type</String>
+                <String>citation</String>
+            </prefList>
+            <prefList key="MJK2_1_1">
+                <String>lexical-unit</String>
+                <String>morph-type</String>
+                <String>citation</String>
+            </prefList>
+            <prefList key="MJK2_1">
+                <String>lexical-unit</String>
+                <String>morph-type</String>
+                <String>citation</String>
+            </prefList>
+        </prefGroup>
+    </prefGroup>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">0,0</Object>
+    </pref>
+    <prefList key="TranscriptionTable.NonEditableTiers"/>
+    <prefList key="TranscriptionTable.ColumnTypes">
+        <String>ts</String>
+        <String>tl</String>
+    </prefList>
+    <pref key="SelectionBeginTime">
+        <Long>0</Long>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
+    <pref key="InterlinearizationMode.RightTopBottomSplit">
+        <Double>0.48668032786885246</Double>
+    </pref>
+    <pref key="InterlinearizationEditor.FontSize">
+        <Int>12</Int>
+    </pref>
+    <pref key="MediaControlRate">
+        <Float>1.0</Float>
+    </pref>
+    <prefGroup key="TranscriptionTable.TierMap">
+        <prefList key="Danielle">
+            <String>Danielle</String>
+            <String>TPI@Danielle</String>
+        </prefList>
+        <prefList key="Julie">
+            <String>Julie</String>
+            <String>TPI@Julie</String>
+        </prefList>
+    </prefGroup>
+    <pref key="TimeScaleBeginTime">
+        <Long>51000</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>51385</Long>
+    </pref>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>Julie</String>
+        <String>TPI@Julie</String>
+        <String>ENG@Julie</String>
+        <String>Danielle</String>
+    </prefList>
+    <prefGroup key="TierColors">
+        <pref key="Danielle">
+            <Object class="java.awt.Color">160,90,0</Object>
+        </pref>
+        <pref key="Julie">
+            <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+    </prefGroup>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>159</Int>
+    </pref>
+    <prefList key="TranscriptionTable.HiddenTiers"/>
+    <prefGroup key="TranscriptionTable.ColumnWidth">
+        <pref key="1">
+            <Int>738</Int>
+        </pref>
+        <pref key="2">
+            <Int>737</Int>
+        </pref>
+    </prefGroup>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>0</Int>
+    </pref>
+    <pref key="LayoutManager.MediaAreaWidth">
+        <Int>352</Int>
+    </pref>
+    <pref key="WaveFormViewer.ActiveURL">
+        <String>file:///G:/ELAR-Matukar-Barth-0545/matukar-barth-0545/DGB1-intro17/DGB1-intro17-jp_jp.wav</String>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>Julie</String>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>430</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Sender">
+            <Int>0</Int>
+        </pref>
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Creation Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Tier">
+            <Int>75</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Recipient">
+            <Int>0</Int>
+        </pref>
+        <pref key="Start Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Initials">
+            <Int>75</Int>
+        </pref>
+        <pref key="End Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <pref key="SegmentationViewer.ActiveTier">
+        <String>Danielle</String>
+    </pref>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Start Time</String>
+        <String>End Time</String>
+        <String>Tier</String>
+        <String>Initials</String>
+        <String>Comment</String>
+        <String>Thread</String>
+        <String>Sender</String>
+        <String>Recipient</String>
+        <String>Creation Date</String>
+        <String>Modification Date</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="MediaControlVolume">
+        <Float>1.0</Float>
+    </pref>
+    <pref key="AnalyzerConfigurationPanel.CurrentAnalyzer">
+        <String>Gloss Analyzer</String>
+    </pref>
+    <prefGroup key="IndividualPlayerMuteSoloSettings"/>
+    <prefList key="InterlinearizationConfigurations"/>
+    <pref key="TM.SignalViewer.ZoomLevel">
+        <Float>5.0</Float>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///C:/Users/u1008958/Dropbox/EIW - ELAN Interlinerization Workshop/EIW Workshop Materials for participants/DGB1-intro17-jp_jp.wav</String>
+        </pref>
+    </prefGroup>
+    <prefGroup key="IndividualPlayerVolumes">
+        <pref key="DGB1-intro17-jp.wav">
+            <Float>1.0</Float>
+        </pref>
+        <pref key="DGB1-intro17-jp.mp4">
+            <Float>0.0</Float>
+        </pref>
+        <pref key="DGB1-intro17-jp_jp.wav">
+            <Float>1.0</Float>
+        </pref>
+    </prefGroup>
+    <pref key="TranscriptionTable.LastActiveColumn">
+        <String>ts</String>
+    </pref>
+    <pref key="InterlinearizationMode.LeftRightSplit">
+        <Double>0.23056722689075632</Double>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
+    <prefList key="SegmentationViewer.HiddenTiers"/>
+    <pref key="SegmentationManager.SelectedTabIndex">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="InterlinearizationConfigurations.ExcludedTierConfigurations"/>
+</preferences>
