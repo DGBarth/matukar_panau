@@ -242,10 +242,6 @@
             <gloss lang="en">DESID</gloss>
         </sense>
     </entry>
-    <entry id="e_f1f278d2-f57a-45c1-ad37-26869b0227ea" dateCreated="2015-10-15T22:33:59Z" dateModified="2015-10-15T22:33:59Z">
-        <lexical-unit>-bai</lexical-unit>
-        <morph-type>suffix</morph-type>
-    </entry>
     <entry id="e_ee263867-89c2-4f70-ac32-461259155920" dateCreated="2011-11-17T18:03:17Z" dateModified="2016-03-01T04:11:42Z">
         <lexical-unit>-bakai</lexical-unit>
         <morph-type>suffix</morph-type>
@@ -264,15 +260,16 @@
             <gloss lang="en">friend.group</gloss>
         </sense>
     </entry>
-    <entry id="e_cd3c8a02-1c71-4259-a868-007cef14655c" dateCreated="2011-11-17T18:04:51Z" dateModified="2019-03-27T09:57:49Z">
+    <entry id="e_cd3c8a02-1c71-4259-a868-007cef14655c" dateCreated="2011-11-17T18:04:51Z" dateModified="2020-05-01T04:06:45.322Z">
         <lexical-unit>-bawai</lexical-unit>
         <morph-type>suffix</morph-type>
-        <variant>--mbawai</variant>
+        <variant>-mbawai</variant>
         <variant>-mbawai</variant>
         <variant>-abawai</variant>
         <variant>-abai</variant>
         <variant>-mbuai</variant>
         <variant>-abuai</variant>
+        <variant>-bai</variant>
         <sense id="s_cb9f98e9-847e-4611-bb56-774171dd294a" order="1">
             <grammatical-category>v</grammatical-category>
             <gloss lang="en">IRR:I:DESID</gloss>
@@ -909,9 +906,10 @@
             <gloss lang="en">COND</gloss>
         </sense>
     </entry>
-    <entry id="e_9c477fb0-42cc-4105-9f45-2cba34a43a50" dateCreated="2019-05-01T03:01:26.418Z" dateModified="2019-05-01T03:01:26.421Z" order="1">
+    <entry id="e_9c477fb0-42cc-4105-9f45-2cba34a43a50" dateCreated="2019-05-01T03:01:26.418Z" dateModified="2020-05-01T04:09:49.440Z" order="1">
         <lexical-unit>-te</lexical-unit>
         <morph-type>suffix</morph-type>
+        <variant>-ate</variant>
         <sense id="s_baed588d-ab65-40df-9e3d-c57c32a353b1" order="1">
             <grammatical-category>postpposition</grammatical-category>
             <gloss>LOC</gloss>
@@ -1542,9 +1540,10 @@
             <gloss lang="tpi">Julianna</gloss>
         </sense>
     </entry>
-    <entry id="e_66a1505d-ffa5-4881-a722-7f62af4e44a7" dateCreated="2011-10-17T22:17:23Z" dateModified="2011-10-17T22:17:23Z">
+    <entry id="e_66a1505d-ffa5-4881-a722-7f62af4e44a7" dateCreated="2011-10-17T22:17:23Z" dateModified="2020-05-01T04:41:05.407Z">
         <lexical-unit>Kadagoi</lexical-unit>
         <morph-type>stem</morph-type>
+        <variant>Kadi</variant>
         <sense id="s_7f952d0a-cd7d-4cf8-acc9-220f9b7936fe" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">Kadagoi</gloss>
@@ -1912,6 +1911,14 @@
             <gloss lang="en">Paul</gloss>
         </sense>
     </entry>
+    <entry id="e_9c00c90e-6da8-48cf-a48d-8db0c57661b0" dateCreated="2020-05-01T04:16:29.336Z" dateModified="2020-05-01T04:16:29.337Z" order="1">
+        <lexical-unit>Pondo</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_272284e6-2743-4906-af5a-ab1b1641c338" order="1">
+            <grammatical-category>Noun</grammatical-category>
+            <gloss>Pondo</gloss>
+        </sense>
+    </entry>
     <entry id="e_40419aa3-83eb-4aa7-8e22-36d0b148323f" dateCreated="2011-11-29T01:04:20Z" dateModified="2011-11-29T01:04:20Z">
         <lexical-unit>Rai Coast</lexical-unit>
         <morph-type>phrase</morph-type>
@@ -2061,6 +2068,14 @@
         <sense id="s_fd609f7c-9dff-48fe-a05d-3d4634f659b8" order="1">
             <grammatical-category>Verb</grammatical-category>
             <gloss lang="en">laugh</gloss>
+        </sense>
+    </entry>
+    <entry id="e_a47aa2bb-ef5c-4d5b-8ce9-5ae094689b32" dateCreated="2020-04-24T04:51:03.809Z" dateModified="2020-04-24T04:51:03.809Z" order="1">
+        <lexical-unit>Sepik</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_8ef6f0b5-ee46-4e2b-9b71-dcef599da9ac" order="1">
+            <grammatical-category>Noun</grammatical-category>
+            <gloss>Sepik (region)</gloss>
         </sense>
     </entry>
     <entry id="e_17052f0e-edce-4038-b80f-5334e6cd3c29" dateCreated="2013-05-27T10:23:22Z" dateModified="2013-05-27T10:23:22Z">
@@ -3231,6 +3246,14 @@
             <gloss lang="en">Bargam</gloss>
         </sense>
     </entry>
+    <entry id="e_d11e966e-8b1b-4851-bfe7-c55d86f3d8dd" dateCreated="2020-05-01T04:20:47.285Z" dateModified="2020-05-01T04:20:47.286Z" order="1">
+        <lexical-unit>basisi</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_f8893729-a15c-4764-8db8-8d42e709437c" order="1">
+            <grammatical-category>Verb</grammatical-category>
+            <gloss>carry.with.head</gloss>
+        </sense>
+    </entry>
     <entry id="e_aaaf4446-7980-4152-a5fd-0470ff83b872" dateCreated="2013-06-02T15:17:36Z" dateModified="2013-06-02T15:19:13Z">
         <lexical-unit>belbel</lexical-unit>
         <morph-type>stem</morph-type>
@@ -3678,6 +3701,14 @@
         <sense id="s_19bf28ff-44fa-456f-930a-27ec76e3c57d" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">Dador</gloss>
+        </sense>
+    </entry>
+    <entry id="e_02b59ffc-cf9f-4c60-8ad2-b688d88c000f" dateCreated="2020-05-01T04:14:35.355Z" dateModified="2020-05-01T04:14:35.355Z" order="1">
+        <lexical-unit>dadub</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_5e056281-9479-4f46-b69f-49e25dc0d486" order="1">
+            <grammatical-category>Noun</grammatical-category>
+            <gloss>coldness</gloss>
         </sense>
     </entry>
     <entry id="e_db80ecc0-c484-42f1-9e02-bac46a320046" dateCreated="2013-11-17T14:30:17Z" dateModified="2013-11-17T14:30:17Z">
@@ -5425,6 +5456,14 @@
             <gloss lang="en">enough(Tok Pisin)</gloss>
         </sense>
     </entry>
+    <entry id="e_244ee70a-a4bc-45f8-86c2-e745846c3d16" dateCreated="2020-04-24T04:49:58.485Z" dateModified="2020-04-24T04:49:58.485Z" order="1">
+        <lexical-unit>is</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_303777af-d15c-4e6c-9668-bbafc409ab27" order="1">
+            <grammatical-category>Noun</grammatical-category>
+            <gloss>mosquito</gloss>
+        </sense>
+    </entry>
     <entry id="e_8ca2093d-f100-4c80-86ec-ac547ad0bd6d" dateCreated="2013-05-27T14:40:44Z" dateModified="2013-05-27T14:40:44Z">
         <lexical-unit>iwau</lexical-unit>
         <morph-type>stem</morph-type>
@@ -5686,9 +5725,10 @@
             <gloss lang="en">game.type</gloss>
         </sense>
     </entry>
-    <entry id="e_67fd2fc2-1eca-46eb-bc65-b807c63625c8" dateCreated="2012-05-03T22:12:17Z" dateModified="2012-05-03T22:12:17Z">
+    <entry id="e_67fd2fc2-1eca-46eb-bc65-b807c63625c8" dateCreated="2012-05-03T22:12:17Z" dateModified="2020-04-24T04:39:25.868Z">
         <lexical-unit>kalago</lexical-unit>
         <morph-type>stem</morph-type>
+        <variant>kalgo</variant>
         <sense id="s_dc9f17a7-a713-49f1-8d7d-9392695c7cfe" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">basket</gloss>
@@ -5829,6 +5869,14 @@
         <sense id="s_664c245f-70ad-4e99-82b6-d0acdf317a31" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">kennedy</gloss>
+        </sense>
+    </entry>
+    <entry id="e_ff0ba9f3-b021-4132-a8f9-5a3ce2ebbf90" dateCreated="2020-05-01T04:10:46.419Z" dateModified="2020-05-01T04:10:46.421Z" order="1">
+        <lexical-unit>ketuk</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_b0901cf6-abb6-4c75-984c-5e69813c5eb2" order="1">
+            <grammatical-category>Noun</grammatical-category>
+            <gloss>bilum</gloss>
         </sense>
     </entry>
     <entry id="e_b952e63d-e1fe-434d-85f6-d238c0c345a6" dateCreated="2016-06-02T05:43:58Z" dateModified="2016-06-02T05:43:58Z">
@@ -7099,6 +7147,14 @@
             <gloss lang="en">mix</gloss>
         </sense>
     </entry>
+    <entry id="e_ce12da50-60df-4110-86fd-c379181ad0b0" dateCreated="2020-04-24T04:55:06.969Z" dateModified="2020-04-24T04:55:06.969Z" order="1">
+        <lexical-unit>mm</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_179a51d6-1431-4153-9615-9746328ce641" order="1">
+            <grammatical-category>Particle</grammatical-category>
+            <gloss>AFFIRMATIVE</gloss>
+        </sense>
+    </entry>
     <entry id="e_ecb21393-12c5-45d8-86b5-7b8624db5bd8" dateCreated="2011-11-07T23:19:25Z" dateModified="2011-11-07T23:19:25Z">
         <lexical-unit>mo</lexical-unit>
         <morph-type>stem</morph-type>
@@ -7993,6 +8049,14 @@
         <sense id="s_dbebf238-29c2-4aeb-9ec6-1e23788822c2" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">organization</gloss>
+        </sense>
+    </entry>
+    <entry id="e_c6e7104f-727a-4077-b570-6f86d122e66b" dateCreated="2020-04-24T04:52:54.591Z" dateModified="2020-04-24T04:53:13.369Z" order="1">
+        <lexical-unit>pad</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_68122559-9033-41bc-8257-130c06960388" order="1">
+            <grammatical-category>Noun</grammatical-category>
+            <gloss>palm.fronds</gloss>
         </sense>
     </entry>
     <entry id="e_3cd979d4-13be-4b57-9e03-3907ab5bd670" dateCreated="2013-06-17T13:26:53Z" dateModified="2013-11-18T10:41:34Z">
@@ -10743,9 +10807,10 @@
             <gloss lang="en">sell</gloss>
         </sense>
     </entry>
-    <entry id="e_c618a253-fad7-4a78-b332-9decc9c7a3fa" dateCreated="2012-08-02T18:16:18Z" dateModified="2012-08-02T18:16:18Z" order="4">
+    <entry id="e_c618a253-fad7-4a78-b332-9decc9c7a3fa" dateCreated="2012-08-02T18:16:18Z" dateModified="2020-05-01T04:21:42.036Z" order="4">
         <lexical-unit>wai</lexical-unit>
         <morph-type>stem</morph-type>
+        <variant>waii</variant>
         <sense id="s_fa5fec84-23b1-43bd-b56a-d6966b427cf3" order="1">
             <grammatical-category></grammatical-category>
             <gloss lang="en">weave</gloss>
@@ -11120,6 +11185,14 @@
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">smell</gloss>
             <gloss lang="tpi">smel</gloss>
+        </sense>
+    </entry>
+    <entry id="e_6888256e-19eb-4c3a-9d46-7c11cf559081" dateCreated="2020-05-01T04:24:50.033Z" dateModified="2020-05-01T04:24:50.034Z" order="1">
+        <lexical-unit>yauyau</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_b7579d98-da67-4023-98eb-f62e5c21994a" order="1">
+            <grammatical-category>Verb</grammatical-category>
+            <gloss>fill.up</gloss>
         </sense>
     </entry>
     <entry id="e_589f3232-cc4d-49ce-8b9f-b516cbc56980" dateCreated="2012-09-03T17:43:43Z" dateModified="2013-06-24T12:12:59Z">
