@@ -22,19 +22,6 @@
             <gloss lang="en">DIR 'away'</gloss>
         </sense>
     </entry>
-    <entry id="e_5a0b5a0a-4dc8-4f57-acdc-1e42fdf73d4c" dateCreated="2012-07-24T16:59:53Z" dateModified="2019-06-02T07:46:17.367Z" order="1">
-        <lexical-unit>-a</lexical-unit>
-        <morph-type>enclitic</morph-type>
-        <variant>-ya</variant>
-        <sense id="s_82224619-9781-4ec0-8064-b3ac1d0a3dbd" order="0">
-            <grammatical-category>Question particle</grammatical-category>
-            <gloss lang="en">question.particle</gloss>
-        </sense>
-        <sense id="s_09cce59e-6e2e-4466-a5d6-3ef25d6c33ca" order="1">
-            <grammatical-category>Postposition</grammatical-category>
-            <gloss lang="en">LOC</gloss>
-        </sense>
-    </entry>
     <entry id="e_0b55087b-3b8d-4563-a232-d4665cf33d21" dateCreated="2012-04-21T19:37:50Z" dateModified="2020-03-05T23:37:33.817Z" order="1">
         <lexical-unit>-ad</lexical-unit>
         <morph-type>suffix</morph-type>
@@ -54,14 +41,6 @@
     <entry id="e_772fca73-5598-445f-9e70-5a6182162116" dateCreated="2016-02-24T05:17:55Z" dateModified="2016-02-24T05:17:55Z">
         <lexical-unit>-ada</lexical-unit>
         <morph-type>suffix</morph-type>
-    </entry>
-    <entry id="e_edda18aa-1fae-4037-96fc-70d9d183742e" dateCreated="2013-06-30T12:43:55Z" dateModified="2019-06-02T07:53:42.213Z" order="1">
-        <lexical-unit>-ado</lexical-unit>
-        <morph-type>enclitic</morph-type>
-        <sense id="s_0686f693-20d6-4d36-b69f-65f6ca5146d8" order="1">
-            <grammatical-category>Postposition</grammatical-category>
-            <gloss lang="en">on.top</gloss>
-        </sense>
     </entry>
     <entry id="e_15947ead-f67a-4559-b736-3f06708eb611" dateCreated="2020-09-30T06:28:04.059Z" dateModified="2020-09-30T06:28:04.059Z" order="1">
         <lexical-unit>-adok</lexical-unit>
@@ -667,14 +646,6 @@
             <gloss lang="en">DIR 'away from speaker'</gloss>
         </sense>
     </entry>
-    <entry id="e_104185a0-3277-49de-8d7a-af8afee61022" dateCreated="2016-06-30T04:59:36Z" dateModified="2019-07-04T08:11:40.419Z" order="1">
-        <lexical-unit>-la</lexical-unit>
-        <morph-type>enclitic</morph-type>
-        <sense id="s_08bd3122-e3d0-4a40-af72-925947bb0471" order="1">
-            <grammatical-category>Postposition</grammatical-category>
-            <gloss lang="en">LOC</gloss>
-        </sense>
-    </entry>
     <entry id="e_70f1df01-00c5-478f-ac8d-0ffe5e8ae6b7" dateCreated="2019-03-16T06:02:17Z" dateModified="2019-03-16T06:02:17Z">
         <lexical-unit>-lam</lexical-unit>
         <morph-type>suffix</morph-type>
@@ -689,14 +660,6 @@
         <sense id="s_4f58e278-25b0-48f8-8ad7-2303bd540932" order="1">
             <grammatical-category>v.suff</grammatical-category>
             <gloss lang="en">DESID</gloss>
-        </sense>
-    </entry>
-    <entry id="e_4cccc10f-7894-43e2-9f69-275ac50fb500" dateCreated="2019-05-01T02:43:36.006Z" dateModified="2019-05-26T07:09:35.209Z" order="2">
-        <lexical-unit>-lo</lexical-unit>
-        <morph-type>suffix</morph-type>
-        <sense id="s_566c3da8-a37a-44a3-a2ed-b1dfad3e10dd" order="1">
-            <grammatical-category>Postposition</grammatical-category>
-            <gloss>in</gloss>
         </sense>
     </entry>
     <entry id="e_55515990-f087-42e9-9c31-7e703e832f5e" dateCreated="2016-02-24T05:53:37Z" dateModified="2016-02-24T05:53:37Z">
@@ -781,14 +744,6 @@
         <variant>-yami</variant>
         <sense id="s_8d494873-02a4-4746-b1d6-c4f8d59d6caf" order="1">
             <grammatical-category>suff</grammatical-category>
-            <gloss lang="en">only</gloss>
-        </sense>
-    </entry>
-    <entry id="e_7832037e-86a9-45f7-803b-ca8e1f375c86" dateCreated="2012-07-29T17:07:39Z" dateModified="2019-07-04T08:11:45.730Z" order="1">
-        <lexical-unit>-mi</lexical-unit>
-        <morph-type>enclitic</morph-type>
-        <sense id="s_528de3e5-721a-4e19-b51e-8bccc18bd7d1" order="1">
-            <grammatical-category>Particle</grammatical-category>
             <gloss lang="en">only</gloss>
         </sense>
     </entry>
@@ -878,14 +833,14 @@
             <gloss lang="en">FOC</gloss>
         </sense>
     </entry>
-    <entry id="e_8b7c957e-50a7-4408-8d81-3f211880173c" dateCreated="2011-10-21T20:58:33Z" dateModified="2019-07-04T08:29:43.635Z" order="2">
+    <entry id="e_8b7c957e-50a7-4408-8d81-3f211880173c" dateCreated="2011-10-21T20:58:33Z" dateModified="2020-11-16T05:42:46.154Z" order="2">
         <lexical-unit>-o</lexical-unit>
         <morph-type>suffix</morph-type>
         <variant>-yo</variant>
         <variant>-no</variant>
         <sense id="s_5645e9ea-920d-4f31-a663-6a490958458b" order="1">
             <grammatical-category>v.suff</grammatical-category>
-            <gloss lang="en">2.SG.P</gloss>
+            <gloss lang="en">2.s.P</gloss>
         </sense>
     </entry>
     <entry id="e_085a3027-d6a3-45d7-9ef6-fc51976fea43" dateCreated="2011-10-21T20:55:17Z" dateModified="2019-01-17T03:15:24Z" order="2">
@@ -1039,15 +994,6 @@
             <gloss lang="en">COND</gloss>
         </sense>
     </entry>
-    <entry id="e_4056617b-c1b4-4cab-ab57-ee39625932b1" dateCreated="2012-04-11T17:37:32Z" dateModified="2019-05-23T05:39:59.220Z" order="1">
-        <lexical-unit>-te</lexical-unit>
-        <morph-type>enclitic</morph-type>
-        <variant>-ate</variant>
-        <sense id="s_b51d2471-e1a6-447b-8e7e-59c4e366c6ae" order="1">
-            <grammatical-category>Postposition</grammatical-category>
-            <gloss lang="en">LOC</gloss>
-        </sense>
-    </entry>
     <entry id="e_37895c5a-dc06-4f60-89c7-2b9535e25af4" dateCreated="2016-02-18T02:09:12Z" dateModified="2020-04-06T00:22:48.188Z" order="1">
         <lexical-unit>-ti</lexical-unit>
         <morph-type>suffix</morph-type>
@@ -1072,14 +1018,6 @@
         <sense id="s_e5a5c9bf-30ab-41fa-8af0-f3d664c276bc" order="1">
             <grammatical-category>n.suff</grammatical-category>
             <gloss lang="en">1.s</gloss>
-        </sense>
-    </entry>
-    <entry id="e_c129f4b6-9d54-4360-9fd4-8128a71c641c" dateCreated="2013-05-27T14:34:41Z" dateModified="2019-07-04T08:11:51.391Z" order="1">
-        <lexical-unit>-u</lexical-unit>
-        <morph-type>enclitic</morph-type>
-        <sense id="s_d54c2aa7-fb84-4cfe-9dc0-a1a16e16e358" order="1">
-            <grammatical-category>Postposition</grammatical-category>
-            <gloss lang="en">LOC</gloss>
         </sense>
     </entry>
     <entry id="e_21a0f0bb-944b-44c1-920b-81de964f5db2" dateCreated="2013-06-21T10:32:49Z" dateModified="2019-07-04T08:30:47.059Z" order="2">
@@ -1198,6 +1136,68 @@
         <sense id="s_12adb338-c77b-4e41-80e7-b00274b0d3f4" order="1">
             <grammatical-category>Quantifier</grammatical-category>
             <gloss lang="en">82</gloss>
+        </sense>
+    </entry>
+    <entry id="e_5a0b5a0a-4dc8-4f57-acdc-1e42fdf73d4c" dateCreated="2012-07-24T16:59:53Z" dateModified="2020-11-16T05:20:10.925Z" order="1">
+        <lexical-unit>=a</lexical-unit>
+        <morph-type>enclitic</morph-type>
+        <variant>-ya</variant>
+        <sense id="s_82224619-9781-4ec0-8064-b3ac1d0a3dbd" order="0">
+            <grammatical-category>Question particle</grammatical-category>
+            <gloss lang="en">question.particle</gloss>
+        </sense>
+        <sense id="s_09cce59e-6e2e-4466-a5d6-3ef25d6c33ca" order="1">
+            <grammatical-category>Postposition</grammatical-category>
+            <gloss lang="en">LOC</gloss>
+        </sense>
+    </entry>
+    <entry id="e_edda18aa-1fae-4037-96fc-70d9d183742e" dateCreated="2013-06-30T12:43:55Z" dateModified="2020-11-16T05:20:24.238Z" order="1">
+        <lexical-unit>=ado</lexical-unit>
+        <morph-type>enclitic</morph-type>
+        <sense id="s_0686f693-20d6-4d36-b69f-65f6ca5146d8" order="1">
+            <grammatical-category>Postposition</grammatical-category>
+            <gloss lang="en">on.top</gloss>
+        </sense>
+    </entry>
+    <entry id="e_104185a0-3277-49de-8d7a-af8afee61022" dateCreated="2016-06-30T04:59:36Z" dateModified="2020-11-16T05:20:37.635Z" order="1">
+        <lexical-unit>=la</lexical-unit>
+        <morph-type>enclitic</morph-type>
+        <sense id="s_08bd3122-e3d0-4a40-af72-925947bb0471" order="1">
+            <grammatical-category>Postposition</grammatical-category>
+            <gloss lang="en">LOC</gloss>
+        </sense>
+    </entry>
+    <entry id="e_4cccc10f-7894-43e2-9f69-275ac50fb500" dateCreated="2019-05-01T02:43:36.006Z" dateModified="2020-11-16T06:08:39.107Z" order="1">
+        <lexical-unit>=lo</lexical-unit>
+        <morph-type>enclitic</morph-type>
+        <sense id="s_566c3da8-a37a-44a3-a2ed-b1dfad3e10dd" order="1">
+            <grammatical-category>Postposition</grammatical-category>
+            <gloss>in</gloss>
+        </sense>
+    </entry>
+    <entry id="e_7832037e-86a9-45f7-803b-ca8e1f375c86" dateCreated="2012-07-29T17:07:39Z" dateModified="2020-11-16T05:28:28.258Z" order="1">
+        <lexical-unit>=mi</lexical-unit>
+        <morph-type>enclitic</morph-type>
+        <sense id="s_528de3e5-721a-4e19-b51e-8bccc18bd7d1" order="1">
+            <grammatical-category>Particle</grammatical-category>
+            <gloss lang="en">only</gloss>
+        </sense>
+    </entry>
+    <entry id="e_4056617b-c1b4-4cab-ab57-ee39625932b1" dateCreated="2012-04-11T17:37:32Z" dateModified="2020-11-16T05:28:51.076Z" order="1">
+        <lexical-unit>=te</lexical-unit>
+        <morph-type>enclitic</morph-type>
+        <variant>-ate</variant>
+        <sense id="s_b51d2471-e1a6-447b-8e7e-59c4e366c6ae" order="1">
+            <grammatical-category>Postposition</grammatical-category>
+            <gloss lang="en">LOC</gloss>
+        </sense>
+    </entry>
+    <entry id="e_c129f4b6-9d54-4360-9fd4-8128a71c641c" dateCreated="2013-05-27T14:34:41Z" dateModified="2020-11-16T05:29:03.531Z" order="1">
+        <lexical-unit>=u</lexical-unit>
+        <morph-type>enclitic</morph-type>
+        <sense id="s_d54c2aa7-fb84-4cfe-9dc0-a1a16e16e358" order="1">
+            <grammatical-category>Postposition</grammatical-category>
+            <gloss lang="en">LOC</gloss>
         </sense>
     </entry>
     <entry id="e_49132333-3a0d-430a-8de1-5e2dd1414527" dateCreated="2020-03-10T04:49:40.376Z" dateModified="2020-03-10T04:49:40.378Z" order="1">
@@ -5858,9 +5858,8 @@
             <gloss lang="en">evil spirit</gloss>
         </sense>
     </entry>
-    <entry id="e_8aa104e9-5740-4d0c-ad71-65c525389e39" dateCreated="2011-10-17T23:34:31Z" dateModified="2019-05-31T04:45:56.604Z">
+    <entry id="e_8aa104e9-5740-4d0c-ad71-65c525389e39" dateCreated="2011-10-17T23:34:31Z" dateModified="2020-11-16T05:14:07.629Z">
         <lexical-unit>ha</lexical-unit>
-        <citation></citation>
         <morph-type>stem</morph-type>
         <variant>a</variant>
         <sense id="s_72e5a0b0-661f-45b1-b741-26771c813cde" order="1">
@@ -7442,9 +7441,10 @@
             <gloss lang="en">as</gloss>
         </sense>
     </entry>
-    <entry id="e_8ef9da96-37d4-49eb-b572-9abef3197743" dateCreated="2012-09-03T17:19:13Z" dateModified="2019-05-26T06:34:00.860Z" order="1">
+    <entry id="e_8ef9da96-37d4-49eb-b572-9abef3197743" dateCreated="2012-09-03T17:19:13Z" dateModified="2020-11-16T05:30:43.820Z" order="1">
         <lexical-unit>lo</lexical-unit>
-        <morph-type>enclitic</morph-type>
+        <citation>=lo</citation>
+        <morph-type>stem</morph-type>
         <variant>alo</variant>
         <sense id="s_f516a266-3388-4aeb-bf1e-4fec957afe1b" order="1">
             <grammatical-category>Postposition</grammatical-category>
@@ -7932,19 +7932,14 @@
             <gloss lang="en">there</gloss>
         </sense>
     </entry>
-    <entry id="e_19a50552-cf9b-4e43-94df-f9a8d01ff008" dateCreated="2011-10-19T20:17:01Z" dateModified="2019-05-21T09:11:18.118Z">
+    <entry id="e_19a50552-cf9b-4e43-94df-f9a8d01ff008" dateCreated="2011-10-19T20:17:01Z" dateModified="2020-11-16T05:41:24.814Z">
         <lexical-unit>manag</lexical-unit>
-        <citation></citation>
         <morph-type>stem</morph-type>
         <variant>manage</variant>
         <sense id="s_2c3c23b2-ca1f-4dc7-b188-2c9f4516fa17" order="1">
             <grammatical-category>Adverb</grammatical-category>
             <gloss lang="en">like.that</gloss>
         </sense>
-    </entry>
-    <entry id="e_18451c4f-d850-44bf-a891-f875529800ba" dateCreated="2012-09-03T17:20:50Z" dateModified="2012-09-03T17:20:50Z">
-        <lexical-unit>manage</lexical-unit>
-        <morph-type>stem</morph-type>
     </entry>
     <entry id="e_00c96d55-9ace-4215-bb45-a812da6e381f" dateCreated="2012-09-16T16:38:56Z" dateModified="2012-09-16T16:38:56Z">
         <lexical-unit>manaiy</lexical-unit>
@@ -8326,10 +8321,11 @@
             <gloss lang="en">1sg (Tok Pisin)</gloss>
         </sense>
     </entry>
-    <entry id="e_73beee7c-86c6-49ca-9ba8-d93bce5c7627" dateCreated="2011-11-06T22:22:38Z" dateModified="2013-11-18T12:55:03Z">
+    <entry id="e_73beee7c-86c6-49ca-9ba8-d93bce5c7627" dateCreated="2011-11-06T22:22:38Z" dateModified="2020-11-16T05:08:34.594Z">
         <lexical-unit>milo</lexical-unit>
         <morph-type>stem</morph-type>
         <variant>molo</variant>
+        <variant>mulo</variant>
         <sense id="s_9c2a3ef7-42ea-4542-9254-3935842eb8e9" order="0">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">food</gloss>
@@ -8490,10 +8486,6 @@
             <grammatical-category>Verb</grammatical-category>
             <gloss lang="en">return</gloss>
         </sense>
-    </entry>
-    <entry id="e_738f615d-c7b3-4f51-9c67-c8509f80c392" dateCreated="2012-09-03T17:10:39Z" dateModified="2012-09-03T17:10:39Z">
-        <lexical-unit>mulo</lexical-unit>
-        <morph-type>stem</morph-type>
     </entry>
     <entry id="e_6cbcac1b-f871-469c-847f-704c8e3babd0" dateCreated="2020-03-27T02:30:33.661Z" dateModified="2020-03-27T02:32:40.729Z" order="1">
         <lexical-unit>mumalao</lexical-unit>
@@ -11535,9 +11527,10 @@
             <gloss lang="en">younger.brother</gloss>
         </sense>
     </entry>
-    <entry id="e_03421f59-adc0-4c3e-813a-753913f65d09" dateCreated="2019-05-26T07:40:45.853Z" dateModified="2019-05-26T07:40:45.858Z" order="1">
+    <entry id="e_03421f59-adc0-4c3e-813a-753913f65d09" dateCreated="2019-05-26T07:40:45.853Z" dateModified="2020-11-16T05:30:09.530Z" order="1">
         <lexical-unit>te</lexical-unit>
-        <morph-type>enclitic</morph-type>
+        <citation>=te</citation>
+        <morph-type>stem</morph-type>
         <sense id="s_5ea6d12e-3800-4a32-b9f5-a2f8fc1bcd36" order="1">
             <grammatical-category>Postposition</grammatical-category>
             <gloss>LOC</gloss>
@@ -12284,7 +12277,7 @@
             <gloss>uya.redup</gloss>
         </sense>
     </entry>
-    <entry id="e_d18f19b4-4470-47f9-b464-2152f8e97868" dateCreated="2011-10-17T23:15:36Z" dateModified="2020-04-03T03:11:40.505Z">
+    <entry id="e_d18f19b4-4470-47f9-b464-2152f8e97868" dateCreated="2011-10-17T23:15:36Z" dateModified="2020-11-16T06:05:25.840Z">
         <lexical-unit>uyan</lexical-unit>
         <morph-type>stem</morph-type>
         <variant>uya</variant>
@@ -12293,11 +12286,11 @@
             <gloss lang="en">good</gloss>
         </sense>
         <sense id="s_952475fe-4115-4e79-8b79-773f7b6b94be" order="1">
-            <grammatical-category>[Adjective][Verb]</grammatical-category>
+            <grammatical-category>Adjective</grammatical-category>
             <gloss lang="en">big</gloss>
         </sense>
         <sense id="s_7d738efd-d415-451b-b549-d24b4bf968a0" order="2">
-            <grammatical-category>[Adjective][Verb]</grammatical-category>
+            <grammatical-category>Adjective</grammatical-category>
             <gloss lang="en">many</gloss>
         </sense>
     </entry>
@@ -12425,7 +12418,7 @@
             <gloss lang="en">fever</gloss>
         </sense>
     </entry>
-    <entry id="e_f56f9a13-bb94-4a9d-8d1f-1cccbd47efc5" dateCreated="2011-11-06T21:49:17Z" dateModified="2020-10-08T11:28:40.100Z" order="1">
+    <entry id="e_f56f9a13-bb94-4a9d-8d1f-1cccbd47efc5" dateCreated="2011-11-06T21:49:17Z" dateModified="2020-11-16T06:11:13.371Z" order="1">
         <lexical-unit>wai</lexical-unit>
         <morph-type>stem</morph-type>
         <sense id="s_f54f4acc-ceba-4d02-805a-7e635012b229" order="0">
@@ -12433,7 +12426,7 @@
             <gloss lang="en">like</gloss>
         </sense>
         <sense id="s_3fcd1db9-31a6-4ea9-9a7b-432b4dc53483" order="1">
-            <grammatical-category>particle</grammatical-category>
+            <grammatical-category>Particle</grammatical-category>
             <gloss lang="en">due.to</gloss>
         </sense>
     </entry>
