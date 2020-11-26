@@ -187,11 +187,13 @@
             <gloss lang="en">BEN</gloss>
         </sense>
     </entry>
-    <entry id="e_1a4096b4-49a1-4d67-81a5-5b51326ae7f1" dateCreated="2011-11-22T17:23:09Z" dateModified="2019-07-04T08:20:29.037Z">
+    <entry id="e_1a4096b4-49a1-4d67-81a5-5b51326ae7f1" dateCreated="2011-11-22T17:23:09Z" dateModified="2020-11-26T06:12:59.388Z">
         <lexical-unit>-anen</lexical-unit>
         <morph-type>suffix</morph-type>
         <variant>-nen</variant>
         <variant>-yanen</variant>
+        <variant>-wenen</variant>
+        <variant>-anen</variant>
         <sense id="s_e766e70a-35a6-42f4-85d3-a294910e1100" order="1">
             <grammatical-category>n.suff</grammatical-category>
             <gloss lang="en">P.POSS</gloss>
@@ -1049,10 +1051,6 @@
             <gloss lang="en">in.regard.to</gloss>
         </sense>
     </entry>
-    <entry id="e_1704766a-1ed3-4147-9904-b557986fda51" dateCreated="2016-06-30T04:19:57Z" dateModified="2016-06-30T04:19:57Z">
-        <lexical-unit>-wenen</lexical-unit>
-        <morph-type>suffix</morph-type>
-    </entry>
     <entry id="e_eeceacfc-5fae-4cf5-b21d-0874d3cb5e00" dateCreated="2016-02-17T04:51:25Z" dateModified="2019-07-04T08:35:26.421Z" order="1">
         <lexical-unit>-ya</lexical-unit>
         <morph-type>suffix</morph-type>
@@ -1138,10 +1136,10 @@
             <gloss lang="en">82</gloss>
         </sense>
     </entry>
-    <entry id="e_5a0b5a0a-4dc8-4f57-acdc-1e42fdf73d4c" dateCreated="2012-07-24T16:59:53Z" dateModified="2020-11-16T05:20:10.925Z" order="1">
+    <entry id="e_5a0b5a0a-4dc8-4f57-acdc-1e42fdf73d4c" dateCreated="2012-07-24T16:59:53Z" dateModified="2020-11-26T06:44:36.391Z" order="1">
         <lexical-unit>=a</lexical-unit>
         <morph-type>enclitic</morph-type>
-        <variant>-ya</variant>
+        <variant>=ya</variant>
         <sense id="s_82224619-9781-4ec0-8064-b3ac1d0a3dbd" order="0">
             <grammatical-category>Question particle</grammatical-category>
             <gloss lang="en">question.particle</gloss>
@@ -1183,10 +1181,10 @@
             <gloss lang="en">only</gloss>
         </sense>
     </entry>
-    <entry id="e_4056617b-c1b4-4cab-ab57-ee39625932b1" dateCreated="2012-04-11T17:37:32Z" dateModified="2020-11-16T05:28:51.076Z" order="1">
+    <entry id="e_4056617b-c1b4-4cab-ab57-ee39625932b1" dateCreated="2012-04-11T17:37:32Z" dateModified="2020-11-26T06:44:29.079Z" order="1">
         <lexical-unit>=te</lexical-unit>
         <morph-type>enclitic</morph-type>
-        <variant>-ate</variant>
+        <variant>=ate</variant>
         <sense id="s_b51d2471-e1a6-447b-8e7e-59c4e366c6ae" order="1">
             <grammatical-category>Postposition</grammatical-category>
             <gloss lang="en">LOC</gloss>
@@ -4474,13 +4472,6 @@
             <gloss>coldness</gloss>
         </sense>
     </entry>
-    <entry id="e_db80ecc0-c484-42f1-9e02-bac46a320046" dateCreated="2013-11-17T14:30:17Z" dateModified="2013-11-17T14:30:17Z">
-        <lexical-unit>dah</lexical-unit>
-        <morph-type>stem</morph-type>
-        <sense id="s_3c331b09-b791-4634-920c-d2e5b46070c5" order="1">
-            <grammatical-category></grammatical-category>
-        </sense>
-    </entry>
     <entry id="e_a5189d94-1544-4124-92ee-a82abd4962cc" dateCreated="2012-04-23T03:30:28Z" dateModified="2013-11-17T14:30:35Z">
         <lexical-unit>dahe</lexical-unit>
         <morph-type>stem</morph-type>
@@ -5991,9 +5982,10 @@
             <gloss lang="en">many</gloss>
         </sense>
     </entry>
-    <entry id="e_f738f263-14e9-4175-b3a3-f442e98232e1" dateCreated="2016-06-30T01:38:48Z" dateModified="2016-06-30T04:17:12Z">
+    <entry id="e_f738f263-14e9-4175-b3a3-f442e98232e1" dateCreated="2016-06-30T01:38:48Z" dateModified="2020-11-26T06:10:42.258Z">
         <lexical-unit>haiyhai</lexical-unit>
         <morph-type>stem</morph-type>
+        <variant>yahai</variant>
         <sense id="s_d05f1fa5-98f2-42c4-91e5-8bcd36282218" order="1">
             <grammatical-category>Verb</grammatical-category>
             <gloss lang="en">jump</gloss>
@@ -9552,10 +9544,6 @@
             <gloss lang="en">strong</gloss>
         </sense>
     </entry>
-    <entry id="e_c056604d-d27b-4b09-a98f-9b99e2a6b040" dateCreated="2016-06-30T04:12:09Z" dateModified="2016-06-30T04:12:09Z">
-        <lexical-unit>pasapas</lexical-unit>
-        <morph-type>stem</morph-type>
-    </entry>
     <entry id="e_c2e543d1-20ed-49c8-a973-a869a7dbb1a0" dateCreated="2011-10-17T22:21:46Z" dateModified="2011-11-22T17:45:06Z" order="1">
         <lexical-unit>pasi</lexical-unit>
         <morph-type>stem</morph-type>
@@ -9605,9 +9593,10 @@
             <gloss>passenger (English)</gloss>
         </sense>
     </entry>
-    <entry id="e_1f0349b1-f49a-46ee-af4f-6dc216f664d9" dateCreated="2013-10-19T10:08:42Z" dateModified="2013-10-19T10:08:42Z">
+    <entry id="e_1f0349b1-f49a-46ee-af4f-6dc216f664d9" dateCreated="2013-10-19T10:08:42Z" dateModified="2020-11-26T06:04:57.530Z">
         <lexical-unit>paspas</lexical-unit>
         <morph-type>stem</morph-type>
+        <variant>pasapas</variant>
         <sense id="s_cb5e819c-2532-4c26-8b36-d653e8823d66" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">fishing.rod</gloss>
@@ -12726,10 +12715,6 @@
             <grammatical-category>Verb</grammatical-category>
             <gloss lang="en">call.out</gloss>
         </sense>
-    </entry>
-    <entry id="e_44aebc53-7520-489f-ab08-e3cb1f8150dc" dateCreated="2016-06-30T04:17:01Z" dateModified="2016-06-30T04:17:01Z">
-        <lexical-unit>yahai</lexical-unit>
-        <morph-type>stem</morph-type>
     </entry>
     <entry id="e_e572578b-3e35-40f6-9539-1956541ca8a1" dateCreated="2012-09-04T17:48:00Z" dateModified="2013-09-18T11:38:58Z">
         <lexical-unit>yamat</lexical-unit>
