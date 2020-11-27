@@ -3770,9 +3770,10 @@
             <gloss lang="en">insect</gloss>
         </sense>
     </entry>
-    <entry id="e_60e0c56c-fb2d-4067-a2e2-65a37651068d" dateCreated="2011-10-25T17:32:28Z" dateModified="2011-11-02T17:18:22Z">
+    <entry id="e_60e0c56c-fb2d-4067-a2e2-65a37651068d" dateCreated="2011-10-25T17:32:28Z" dateModified="2020-11-27T05:02:46.045Z">
         <lexical-unit>bal</lexical-unit>
         <morph-type>stem</morph-type>
+        <variant>ba</variant>
         <sense id="s_8515fc98-a264-433c-9b14-2c83f6c89df3" order="0">
             <grammatical-category>Verb</grammatical-category>
             <gloss lang="en">throw</gloss>
@@ -7759,12 +7760,12 @@
             <gloss lang="en">here</gloss>
         </sense>
     </entry>
-    <entry id="e_0848fe42-0bf2-4b46-b435-ab5572dbc662" dateCreated="2011-10-26T16:29:50Z" dateModified="2011-10-26T16:30:51Z">
+    <entry id="e_0848fe42-0bf2-4b46-b435-ab5572dbc662" dateCreated="2011-10-26T16:29:50Z" dateModified="2020-11-27T04:57:22.159Z">
         <lexical-unit>mainwai</lexical-unit>
         <morph-type>stem</morph-type>
         <sense id="s_d9f2f67d-3fe7-44ba-be8b-c010b59bdf29" order="1">
             <grammatical-category>Adverb</grammatical-category>
-            <gloss lang="en">Therefore</gloss>
+            <gloss lang="en">therefore</gloss>
         </sense>
     </entry>
     <entry id="e_dfc4d20a-323f-4f05-ac0e-52ffa29617a6" dateCreated="2011-11-07T23:16:56Z" dateModified="2011-11-07T23:16:56Z">
