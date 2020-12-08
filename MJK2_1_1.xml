@@ -497,9 +497,13 @@
             <gloss lang="en">NOM</gloss>
         </sense>
     </entry>
-    <entry id="e_6b2ab7fc-b9a9-4e09-9219-4bd1146531ee" dateCreated="2020-03-05T22:55:41.286Z" dateModified="2020-06-10T23:48:15.043Z" order="1">
+    <entry id="e_6b2ab7fc-b9a9-4e09-9219-4bd1146531ee" dateCreated="2020-03-05T22:55:41.286Z" dateModified="2020-11-30T03:27:08.965Z" order="1">
         <lexical-unit>-enga</lexical-unit>
         <morph-type>suffix</morph-type>
+        <variant>-nga</variant>
+        <variant>-yenga</variant>
+        <variant>-wenga</variant>
+        <variant>-ngenga</variant>
         <sense id="s_0ecd51ed-7979-457d-b6f2-675a824b408a" order="1">
             <grammatical-category>v.suff</grammatical-category>
             <gloss>FOC</gloss>
@@ -808,14 +812,6 @@
         <sense id="s_ded7b8e4-7c90-4755-adee-508b0a95618d" order="1">
             <grammatical-category>n.suff</grammatical-category>
             <gloss lang="en">3.s.POSS</gloss>
-        </sense>
-    </entry>
-    <entry id="e_fe33ca1f-a1cd-4b91-8252-db6e631e4009" dateCreated="2016-02-19T01:29:47Z" dateModified="2019-07-04T08:29:27.547Z">
-        <lexical-unit>-nga</lexical-unit>
-        <morph-type>suffix</morph-type>
-        <sense id="s_4fd09fa8-c3a2-4af3-b180-ed76c08990a1" order="1">
-            <grammatical-category>v.suff</grammatical-category>
-            <gloss lang="en">FOC</gloss>
         </sense>
     </entry>
     <entry id="e_c7818a00-1ebf-4ae9-941a-2f70c273869b" dateCreated="2011-11-21T18:19:30Z" dateModified="2019-07-04T08:29:34.787Z">
@@ -7984,10 +7980,9 @@
             <gloss lang="en">here</gloss>
         </sense>
     </entry>
-    <entry id="e_b62c1b27-6a22-4f73-ab98-a145995d6209" dateCreated="2011-10-17T22:34:35Z" dateModified="2015-12-14T04:18:49Z">
+    <entry id="e_b62c1b27-6a22-4f73-ab98-a145995d6209" dateCreated="2011-10-17T22:34:35Z" dateModified="2020-12-08T06:23:51.781Z">
         <lexical-unit>manig</lexical-unit>
         <morph-type>stem</morph-type>
-        <variant>manig</variant>
         <sense id="s_d126f114-3d0a-4c64-bec9-5f476322b62c" order="1">
             <grammatical-category>Adverb</grammatical-category>
             <gloss lang="en">like.this</gloss>
@@ -10738,13 +10733,10 @@
             <gloss>hang.up</gloss>
         </sense>
     </entry>
-    <entry id="e_0c4af1d2-a9cc-4c64-bb7f-758b8ca1c052" dateCreated="2013-06-09T16:01:40Z" dateModified="2013-06-09T16:01:40Z">
-        <lexical-unit>songani</lexical-unit>
-        <morph-type>stem</morph-type>
-    </entry>
-    <entry id="e_5932a982-ef29-48c5-aff1-6de92cf786ea" dateCreated="2013-05-21T18:53:38Z" dateModified="2013-05-21T18:53:38Z">
+    <entry id="e_5932a982-ef29-48c5-aff1-6de92cf786ea" dateCreated="2013-05-21T18:53:38Z" dateModified="2020-11-30T03:47:24.488Z">
         <lexical-unit>songini</lexical-unit>
         <morph-type>stem</morph-type>
+        <variant>songani</variant>
         <sense id="s_f3290b2f-d427-4acc-bd31-b04e4d7f2fdc" order="1">
             <grammatical-category>Verb</grammatical-category>
             <gloss lang="en">hang</gloss>
@@ -12042,10 +12034,9 @@
             <gloss lang="en">stand</gloss>
         </sense>
     </entry>
-    <entry id="e_dda01183-ef09-4759-894a-905084a19bd8" dateCreated="2011-11-06T23:06:05Z" dateModified="2020-03-28T00:38:29.351Z" order="1">
+    <entry id="e_dda01183-ef09-4759-894a-905084a19bd8" dateCreated="2011-11-06T23:06:05Z" dateModified="2020-12-08T06:43:47.893Z" order="1">
         <lexical-unit>tura</lexical-unit>
         <morph-type>stem</morph-type>
-        <variant>tura</variant>
         <sense id="s_0203c0ae-3559-4ebd-b2ab-8bfa211f10f5" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">another</gloss>
