@@ -2341,10 +2341,9 @@
             <gloss lang="en">Panau</gloss>
         </sense>
     </entry>
-    <entry id="e_5dd4c079-cde1-4fb8-87ff-b3035d963018" dateCreated="2012-04-27T00:58:01Z" dateModified="2015-12-14T04:19:06Z">
+    <entry id="e_5dd4c079-cde1-4fb8-87ff-b3035d963018" dateCreated="2012-04-27T00:58:01Z" dateModified="2020-12-11T04:17:08.562Z">
         <lexical-unit>Papua</lexical-unit>
         <morph-type>stem</morph-type>
-        <variant>manig</variant>
         <sense id="s_0745d6be-0c25-4498-91bb-031390d9dc7a" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">Papua</gloss>
@@ -3987,10 +3986,9 @@
             <gloss lang="en">deep</gloss>
         </sense>
     </entry>
-    <entry id="e_9f08cf1b-1598-4e80-b990-b264ecdbcd9b" dateCreated="2015-12-14T04:47:43Z" dateModified="2015-12-14T04:47:43Z">
+    <entry id="e_9f08cf1b-1598-4e80-b990-b264ecdbcd9b" dateCreated="2015-12-14T04:47:43Z" dateModified="2020-12-11T04:17:16.765Z">
         <lexical-unit>bihain</lexical-unit>
         <morph-type>stem</morph-type>
-        <variant>manig</variant>
         <sense id="s_a8175f9b-14b1-4fc5-8b6e-426815898af0" order="1">
             <grammatical-category></grammatical-category>
             <gloss lang="en">later (Tok Pisin)</gloss>
