@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.0" producer="Lift XSLT Transformer" xsi:schemaLocation="http://www.mpi.nl/tools/elan/LexiconComponent-1.0.xsd">
     <header>
-        <name>MJK2_1_1</name>
+        <name>MJK2_1_1_1</name>
         <language>fr</language>
         <author>SIL.FLEx 8.3.12.43172</author>
         <version>0.13</version>
@@ -7830,6 +7830,14 @@
         <sense id="s_faf24b24-1bab-4045-b6e2-a5f254391dfa" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">village</gloss>
+        </sense>
+    </entry>
+    <entry id="e_945bbdb1-65cc-4e5f-884c-38d281069ce8" dateCreated="2020-12-14T02:35:41.625Z" dateModified="2020-12-14T02:35:41.627Z" order="1">
+        <lexical-unit>malalhatenge</lexical-unit>
+        <morph-type>stem</morph-type>
+        <sense id="s_53d094e4-13ca-48a7-8719-f217e19ae69c" order="1">
+            <grammatical-category>Noun</grammatical-category>
+            <gloss>dawn</gloss>
         </sense>
     </entry>
     <entry id="e_2af3f6f2-cb83-49af-8d89-a81877b68365" dateCreated="2013-10-13T14:24:59Z" dateModified="2013-10-13T14:24:59Z">
