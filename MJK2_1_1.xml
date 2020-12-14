@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.0" producer="Lift XSLT Transformer" xsi:schemaLocation="http://www.mpi.nl/tools/elan/LexiconComponent-1.0.xsd">
     <header>
-        <name>MJK2_1_1</name>
+        <name>MJK2_1_1_1</name>
         <language>fr</language>
         <author>SIL.FLEx 8.3.12.43172</author>
         <version>0.13</version>
@@ -7849,10 +7849,9 @@
             <gloss lang="en">break</gloss>
         </sense>
     </entry>
-    <entry id="e_54bd96d6-60d3-476f-ad7a-69ac5aa95342" dateCreated="2011-10-17T22:59:57Z" dateModified="2013-05-24T06:45:34Z" order="1">
+    <entry id="e_54bd96d6-60d3-476f-ad7a-69ac5aa95342" dateCreated="2011-10-17T22:59:57Z" dateModified="2020-12-14T02:47:13.868Z" order="1">
         <lexical-unit>mam</lexical-unit>
         <morph-type>stem</morph-type>
-        <variant>fmam</variant>
         <sense id="s_f43a23cc-27f9-426b-aece-faa7ab2f7f63" order="0">
             <grammatical-category>Noun</grammatical-category>
             <gloss lang="en">dad</gloss>
