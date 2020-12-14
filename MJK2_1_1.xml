@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.0" producer="Lift XSLT Transformer" xsi:schemaLocation="http://www.mpi.nl/tools/elan/LexiconComponent-1.0.xsd">
     <header>
-        <name>MJK2_1_1_1</name>
+        <name>MJK2_1_1_1_1</name>
         <language>fr</language>
         <author>SIL.FLEx 8.3.12.43172</author>
         <version>0.13</version>
@@ -3075,9 +3075,10 @@
             <gloss lang="en">place</gloss>
         </sense>
     </entry>
-    <entry id="e_2cd8787c-d062-43f6-b142-ba29f588ba9e" dateCreated="2020-06-10T04:28:18.914Z" dateModified="2020-06-10T04:28:18.915Z" order="1">
+    <entry id="e_2cd8787c-d062-43f6-b142-ba29f588ba9e" dateCreated="2020-06-10T04:28:18.914Z" dateModified="2020-12-14T02:59:38.750Z" order="1">
         <lexical-unit>account</lexical-unit>
         <morph-type>stem</morph-type>
+        <variant>akaunt</variant>
         <sense id="s_6793f976-e3f4-4563-8dbc-64986ca08f8e" order="1">
             <grammatical-category>Noun</grammatical-category>
             <gloss>account (ENG)</gloss>
