@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="1.0" producer="Lift XSLT Transformer" xsi:schemaLocation="http://www.mpi.nl/tools/elan/LexiconComponent-1.0.xsd">
     <header>
-        <name>MJK2_1_1_1</name>
+        <name>MJK2_1_1_1_1</name>
         <language>fr</language>
         <author>SIL.FLEx 8.3.12.43172</author>
         <version>0.13</version>
@@ -990,6 +990,14 @@
         <sense id="s_427f8ca0-d57a-44bf-b771-9521f7bc3ef4" order="1">
             <grammatical-category>v.suff</grammatical-category>
             <gloss lang="en">COND</gloss>
+        </sense>
+    </entry>
+    <entry id="e_8a1ecb91-0749-4717-9b39-140e11297eac" dateCreated="2020-12-16T23:57:17.527Z" dateModified="2020-12-16T23:57:57.996Z" order="1">
+        <lexical-unit>-te</lexical-unit>
+        <morph-type>suffix</morph-type>
+        <sense id="s_d6e0dd01-e91e-449a-8d6e-e3ab518335c5" order="1">
+            <grammatical-category>n.suff</grammatical-category>
+            <gloss>LOC</gloss>
         </sense>
     </entry>
     <entry id="e_37895c5a-dc06-4f60-89c7-2b9535e25af4" dateCreated="2016-02-18T02:09:12Z" dateModified="2020-04-06T00:22:48.188Z" order="1">
